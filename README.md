@@ -1,2 +1,1 @@
-## Hello world! 👋
-I am a frontend developer and I am rarely active on this platform, but I still publish my small pet-projects in my free time.
+Hello there! 👋 I'm a frontend developer who is not very active on this platform, but in my free time, I occasionally publish my small personal projects.
